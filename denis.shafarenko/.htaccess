@@ -1,0 +1,5 @@
+ErrorDocument 404 http://127.0.0.2/denis.shafarenko/errors/404.html
+
+<Files "f.html">
+Require all denied
+</Files>
